@@ -1,0 +1,60 @@
+2021-08-12 17:13:08,994 INFO 6984 [egg:logger] init all loggers with options: {"dir":"/demo/egg-share/progressive/step3/example-app/logs/progressive","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"progressive-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-08-12 17:13:09,025 INFO 6984 [egg-schedule]: register schedule /demo/egg-share/progressive/step3/example-app/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-08-12 17:13:09,025 INFO 6984 [egg-schedule]: register schedule /demo/egg-share/progressive/step3/example-app/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-08-12 17:13:09,078 INFO 6984 [egg-static] starting static serve /public/ -> /demo/egg-share/progressive/step3/example-app/app/public
+2021-08-12 17:13:09,080 INFO 6984 [egg-security] use csrf middleware
+2021-08-12 17:13:09,081 INFO 6984 [egg-security] use methodnoallow middleware
+2021-08-12 17:13:09,081 INFO 6984 [egg-security] use noopen middleware
+2021-08-12 17:13:09,082 INFO 6984 [egg-security] use nosniff middleware
+2021-08-12 17:13:09,082 INFO 6984 [egg-security] use xssProtection middleware
+2021-08-12 17:13:09,083 INFO 6984 [egg-security] use xframe middleware
+2021-08-12 17:13:09,083 INFO 6984 [egg-security] use dta middleware
+2021-08-12 17:13:09,083 INFO 6984 [egg-security] compose 7 middlewares into one security middleware
+2021-08-12 17:13:09,089 INFO 6984 [egg:core] dump config after load, 3ms
+2021-08-12 17:13:09,104 INFO 6984 [egg-watcher:app] watcher start success
+2021-08-12 17:13:09,110 INFO 6984 [egg:core] dump config after ready, 4ms
+2021-08-12 17:17:18,616 INFO 7205 [egg:logger] init all loggers with options: {"dir":"/demo/egg-share/progressive/step3/example-app/logs/progressive","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"progressive-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-08-12 17:17:18,645 INFO 7205 [egg-schedule]: register schedule /demo/egg-share/progressive/step3/example-app/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-08-12 17:17:18,645 INFO 7205 [egg-schedule]: register schedule /demo/egg-share/progressive/step3/example-app/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-08-12 17:17:18,699 INFO 7205 [egg-static] starting static serve /public/ -> /demo/egg-share/progressive/step3/example-app/app/public
+2021-08-12 17:17:18,701 INFO 7205 [egg-security] use csrf middleware
+2021-08-12 17:17:18,702 INFO 7205 [egg-security] use methodnoallow middleware
+2021-08-12 17:17:18,702 INFO 7205 [egg-security] use noopen middleware
+2021-08-12 17:17:18,703 INFO 7205 [egg-security] use nosniff middleware
+2021-08-12 17:17:18,704 INFO 7205 [egg-security] use xssProtection middleware
+2021-08-12 17:17:18,704 INFO 7205 [egg-security] use xframe middleware
+2021-08-12 17:17:18,705 INFO 7205 [egg-security] use dta middleware
+2021-08-12 17:17:18,705 INFO 7205 [egg-security] compose 7 middlewares into one security middleware
+2021-08-12 17:17:18,711 INFO 7205 [egg:core] dump config after load, 3ms
+2021-08-12 17:17:18,725 INFO 7205 [egg-watcher:app] watcher start success
+2021-08-12 17:17:18,735 INFO 7205 [egg:core] dump config after ready, 8ms
+2021-08-12 18:36:21,798 INFO 12696 [egg:logger] init all loggers with options: {"dir":"/demo/egg-share/progressive/step3/example-app/logs/progressive","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"progressive-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-08-12 18:36:21,834 INFO 12696 [egg-schedule]: register schedule /demo/egg-share/progressive/step3/example-app/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-08-12 18:36:21,834 INFO 12696 [egg-schedule]: register schedule /demo/egg-share/progressive/step3/example-app/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-08-12 18:36:21,945 INFO 12696 [egg-static] starting static serve /public/ -> /demo/egg-share/progressive/step3/example-app/app/public
+2021-08-12 18:36:21,947 INFO 12696 [egg-security] use csrf middleware
+2021-08-12 18:36:21,949 INFO 12696 [egg-security] use methodnoallow middleware
+2021-08-12 18:36:21,950 INFO 12696 [egg-security] use noopen middleware
+2021-08-12 18:36:21,951 INFO 12696 [egg-security] use nosniff middleware
+2021-08-12 18:36:21,952 INFO 12696 [egg-security] use xssProtection middleware
+2021-08-12 18:36:21,953 INFO 12696 [egg-security] use xframe middleware
+2021-08-12 18:36:21,954 INFO 12696 [egg-security] use dta middleware
+2021-08-12 18:36:21,954 INFO 12696 [egg-security] compose 7 middlewares into one security middleware
+2021-08-12 18:36:21,961 INFO 12696 [egg:core] dump config after load, 3ms
+2021-08-12 18:36:21,975 INFO 12696 [egg-watcher:app] watcher start success
+2021-08-12 18:36:21,981 INFO 12696 [egg:core] dump config after ready, 4ms
+2021-08-12 19:00:54,207 INFO 14340 [egg:logger] init all loggers with options: {"dir":"/demo/egg-share/progressive/step3/example-app/logs/progressive","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"progressive-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-08-12 19:00:54,236 INFO 14340 [egg-schedule]: register schedule /demo/egg-share/progressive/step3/example-app/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-08-12 19:00:54,236 INFO 14340 [egg-schedule]: register schedule /demo/egg-share/progressive/step3/example-app/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-08-12 19:00:54,314 INFO 14340 [egg-static] starting static serve /public/ -> /demo/egg-share/progressive/step3/example-app/app/public
+2021-08-12 19:00:54,316 INFO 14340 [egg-security] use csrf middleware
+2021-08-12 19:00:54,317 INFO 14340 [egg-security] use methodnoallow middleware
+2021-08-12 19:00:54,318 INFO 14340 [egg-security] use noopen middleware
+2021-08-12 19:00:54,318 INFO 14340 [egg-security] use nosniff middleware
+2021-08-12 19:00:54,319 INFO 14340 [egg-security] use xssProtection middleware
+2021-08-12 19:00:54,320 INFO 14340 [egg-security] use xframe middleware
+2021-08-12 19:00:54,321 INFO 14340 [egg-security] use dta middleware
+2021-08-12 19:00:54,321 INFO 14340 [egg-security] compose 7 middlewares into one security middleware
+2021-08-12 19:00:54,327 INFO 14340 [egg:core] dump config after load, 3ms
+2021-08-12 19:00:54,338 INFO 14340 [egg-watcher:app] watcher start success
+2021-08-12 19:00:54,342 INFO 14340 [egg:core] dump config after ready, 3ms

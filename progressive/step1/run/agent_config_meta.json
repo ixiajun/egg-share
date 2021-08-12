@@ -1,0 +1,268 @@
+{
+  "keys": "/demo/egg-share/progressive/step1/config/config.default.js",
+  "session": {
+    "maxAge": "/demo/egg-share/progressive/step1/node_modules/egg-session/config/config.default.js",
+    "key": "/demo/egg-share/progressive/step1/node_modules/egg-session/config/config.default.js",
+    "httpOnly": "/demo/egg-share/progressive/step1/node_modules/egg-session/config/config.default.js",
+    "encrypt": "/demo/egg-share/progressive/step1/node_modules/egg-session/config/config.default.js",
+    "logValue": "/demo/egg-share/progressive/step1/node_modules/egg-session/config/config.default.js"
+  },
+  "security": {
+    "domainWhiteList": "/demo/egg-share/progressive/step1/node_modules/egg-security/config/config.default.js",
+    "protocolWhiteList": "/demo/egg-share/progressive/step1/node_modules/egg-security/config/config.default.js",
+    "defaultMiddleware": "/demo/egg-share/progressive/step1/node_modules/egg-security/config/config.default.js",
+    "csrf": {
+      "enable": "/demo/egg-share/progressive/step1/node_modules/egg-security/config/config.default.js",
+      "type": "/demo/egg-share/progressive/step1/node_modules/egg-security/config/config.default.js",
+      "ignoreJSON": "/demo/egg-share/progressive/step1/node_modules/egg-security/config/config.default.js",
+      "useSession": "/demo/egg-share/progressive/step1/node_modules/egg-security/config/config.default.js",
+      "cookieName": "/demo/egg-share/progressive/step1/node_modules/egg-security/config/config.default.js",
+      "sessionName": "/demo/egg-share/progressive/step1/node_modules/egg-security/config/config.default.js",
+      "headerName": "/demo/egg-share/progressive/step1/node_modules/egg-security/config/config.default.js",
+      "bodyName": "/demo/egg-share/progressive/step1/node_modules/egg-security/config/config.default.js",
+      "queryName": "/demo/egg-share/progressive/step1/node_modules/egg-security/config/config.default.js",
+      "refererWhiteList": "/demo/egg-share/progressive/step1/node_modules/egg-security/config/config.default.js"
+    },
+    "xframe": {
+      "enable": "/demo/egg-share/progressive/step1/node_modules/egg-security/config/config.default.js",
+      "value": "/demo/egg-share/progressive/step1/node_modules/egg-security/config/config.default.js"
+    },
+    "hsts": {
+      "enable": "/demo/egg-share/progressive/step1/node_modules/egg-security/config/config.local.js",
+      "maxAge": "/demo/egg-share/progressive/step1/node_modules/egg-security/config/config.default.js",
+      "includeSubdomains": "/demo/egg-share/progressive/step1/node_modules/egg-security/config/config.default.js"
+    },
+    "dta": {
+      "enable": "/demo/egg-share/progressive/step1/node_modules/egg-security/config/config.default.js"
+    },
+    "methodnoallow": {
+      "enable": "/demo/egg-share/progressive/step1/node_modules/egg-security/config/config.default.js"
+    },
+    "noopen": {
+      "enable": "/demo/egg-share/progressive/step1/node_modules/egg-security/config/config.default.js"
+    },
+    "nosniff": {
+      "enable": "/demo/egg-share/progressive/step1/node_modules/egg-security/config/config.default.js"
+    },
+    "referrerPolicy": {
+      "enable": "/demo/egg-share/progressive/step1/node_modules/egg-security/config/config.default.js",
+      "value": "/demo/egg-share/progressive/step1/node_modules/egg-security/config/config.default.js"
+    },
+    "xssProtection": {
+      "enable": "/demo/egg-share/progressive/step1/node_modules/egg-security/config/config.default.js",
+      "value": "/demo/egg-share/progressive/step1/node_modules/egg-security/config/config.default.js"
+    },
+    "csp": {
+      "enable": "/demo/egg-share/progressive/step1/node_modules/egg-security/config/config.default.js",
+      "policy": "/demo/egg-share/progressive/step1/node_modules/egg-security/config/config.default.js"
+    },
+    "ssrf": {
+      "ipBlackList": "/demo/egg-share/progressive/step1/node_modules/egg-security/config/config.default.js",
+      "ipExceptionList": "/demo/egg-share/progressive/step1/node_modules/egg-security/config/config.default.js",
+      "checkAddress": "/demo/egg-share/progressive/step1/node_modules/egg-security/config/config.default.js"
+    }
+  },
+  "helper": {
+    "shtml": "/demo/egg-share/progressive/step1/node_modules/egg-security/config/config.default.js"
+  },
+  "jsonp": {
+    "limit": "/demo/egg-share/progressive/step1/node_modules/egg-jsonp/config/config.default.js",
+    "callback": "/demo/egg-share/progressive/step1/node_modules/egg-jsonp/config/config.default.js",
+    "csrf": "/demo/egg-share/progressive/step1/node_modules/egg-jsonp/config/config.default.js"
+  },
+  "onerror": {
+    "errorPageUrl": "/demo/egg-share/progressive/step1/node_modules/egg-onerror/config/config.default.js",
+    "appErrorFilter": "/demo/egg-share/progressive/step1/node_modules/egg-onerror/config/config.default.js",
+    "templatePath": "/demo/egg-share/progressive/step1/node_modules/egg-onerror/config/config.default.js"
+  },
+  "i18n": {
+    "defaultLocale": "/demo/egg-share/progressive/step1/node_modules/egg-i18n/config/config.default.js",
+    "dirs": "/demo/egg-share/progressive/step1/node_modules/egg-i18n/config/config.default.js",
+    "queryField": "/demo/egg-share/progressive/step1/node_modules/egg-i18n/config/config.default.js",
+    "cookieField": "/demo/egg-share/progressive/step1/node_modules/egg-i18n/config/config.default.js",
+    "cookieDomain": "/demo/egg-share/progressive/step1/node_modules/egg-i18n/config/config.default.js",
+    "cookieMaxAge": "/demo/egg-share/progressive/step1/node_modules/egg-i18n/config/config.default.js"
+  },
+  "watcher": {
+    "type": "/demo/egg-share/progressive/step1/node_modules/egg-watcher/config/config.local.js",
+    "eventSources": {
+      "default": "/demo/egg-share/progressive/step1/node_modules/egg-watcher/config/config.default.js",
+      "development": "/demo/egg-share/progressive/step1/node_modules/egg-watcher/config/config.default.js"
+    }
+  },
+  "customLogger": {
+    "scheduleLogger": {
+      "consoleLevel": "/demo/egg-share/progressive/step1/node_modules/egg-schedule/config/config.default.js",
+      "file": "/demo/egg-share/progressive/step1/node_modules/egg-schedule/config/config.default.js"
+    }
+  },
+  "schedule": {
+    "directory": "/demo/egg-share/progressive/step1/node_modules/egg-schedule/config/config.default.js"
+  },
+  "multipart": {
+    "mode": "/demo/egg-share/progressive/step1/node_modules/egg-multipart/config/config.default.js",
+    "autoFields": "/demo/egg-share/progressive/step1/node_modules/egg-multipart/config/config.default.js",
+    "defaultCharset": "/demo/egg-share/progressive/step1/node_modules/egg-multipart/config/config.default.js",
+    "fieldNameSize": "/demo/egg-share/progressive/step1/node_modules/egg-multipart/config/config.default.js",
+    "fieldSize": "/demo/egg-share/progressive/step1/node_modules/egg-multipart/config/config.default.js",
+    "fields": "/demo/egg-share/progressive/step1/node_modules/egg-multipart/config/config.default.js",
+    "fileSize": "/demo/egg-share/progressive/step1/node_modules/egg-multipart/config/config.default.js",
+    "files": "/demo/egg-share/progressive/step1/node_modules/egg-multipart/config/config.default.js",
+    "fileExtensions": "/demo/egg-share/progressive/step1/node_modules/egg-multipart/config/config.default.js",
+    "whitelist": "/demo/egg-share/progressive/step1/node_modules/egg-multipart/config/config.default.js",
+    "allowArrayField": "/demo/egg-share/progressive/step1/node_modules/egg-multipart/config/config.default.js",
+    "tmpdir": "/demo/egg-share/progressive/step1/node_modules/egg-multipart/config/config.default.js",
+    "cleanSchedule": {
+      "cron": "/demo/egg-share/progressive/step1/node_modules/egg-multipart/config/config.default.js",
+      "disable": "/demo/egg-share/progressive/step1/node_modules/egg-multipart/config/config.default.js"
+    }
+  },
+  "development": {
+    "watchDirs": "/demo/egg-share/progressive/step1/node_modules/egg-development/config/config.default.js",
+    "ignoreDirs": "/demo/egg-share/progressive/step1/node_modules/egg-development/config/config.default.js",
+    "fastReady": "/demo/egg-share/progressive/step1/node_modules/egg-development/config/config.default.js",
+    "reloadOnDebug": "/demo/egg-share/progressive/step1/node_modules/egg-development/config/config.default.js",
+    "overrideDefault": "/demo/egg-share/progressive/step1/node_modules/egg-development/config/config.default.js",
+    "overrideIgnore": "/demo/egg-share/progressive/step1/node_modules/egg-development/config/config.default.js"
+  },
+  "logrotator": {
+    "filesRotateByHour": "/demo/egg-share/progressive/step1/node_modules/egg-logrotator/config/config.default.js",
+    "hourDelimiter": "/demo/egg-share/progressive/step1/node_modules/egg-logrotator/config/config.default.js",
+    "filesRotateBySize": "/demo/egg-share/progressive/step1/node_modules/egg-logrotator/config/config.default.js",
+    "maxFileSize": "/demo/egg-share/progressive/step1/node_modules/egg-logrotator/config/config.default.js",
+    "maxFiles": "/demo/egg-share/progressive/step1/node_modules/egg-logrotator/config/config.default.js",
+    "rotateDuration": "/demo/egg-share/progressive/step1/node_modules/egg-logrotator/config/config.default.js",
+    "maxDays": "/demo/egg-share/progressive/step1/node_modules/egg-logrotator/config/config.default.js"
+  },
+  "static": {
+    "prefix": "/demo/egg-share/progressive/step1/node_modules/egg-static/config/config.default.js",
+    "dir": "/demo/egg-share/progressive/step1/node_modules/egg-static/config/config.default.js",
+    "dynamic": "/demo/egg-share/progressive/step1/node_modules/egg-static/config/config.default.js",
+    "preload": "/demo/egg-share/progressive/step1/node_modules/egg-static/config/config.default.js",
+    "buffer": "/demo/egg-share/progressive/step1/node_modules/egg-static/config/config.default.js",
+    "maxFiles": "/demo/egg-share/progressive/step1/node_modules/egg-static/config/config.default.js"
+  },
+  "view": {
+    "root": "/demo/egg-share/progressive/step1/node_modules/egg-view/config/config.default.js",
+    "cache": "/demo/egg-share/progressive/step1/node_modules/egg-view/config/config.local.js",
+    "defaultExtension": "/demo/egg-share/progressive/step1/node_modules/egg-view/config/config.default.js",
+    "defaultViewEngine": "/demo/egg-share/progressive/step1/node_modules/egg-view/config/config.default.js",
+    "mapping": "/demo/egg-share/progressive/step1/node_modules/egg-view/config/config.default.js"
+  },
+  "env": "/demo/egg-share/progressive/step1/node_modules/egg/config/config.default.js",
+  "name": "/demo/egg-share/progressive/step1/node_modules/egg/config/config.default.js",
+  "cookies": "/demo/egg-share/progressive/step1/node_modules/egg/config/config.default.js",
+  "proxy": "/demo/egg-share/progressive/step1/node_modules/egg/config/config.default.js",
+  "maxIpsCount": "/demo/egg-share/progressive/step1/node_modules/egg/config/config.default.js",
+  "maxProxyCount": "/demo/egg-share/progressive/step1/node_modules/egg/config/config.default.js",
+  "protocolHeaders": "/demo/egg-share/progressive/step1/node_modules/egg/config/config.default.js",
+  "ipHeaders": "/demo/egg-share/progressive/step1/node_modules/egg/config/config.default.js",
+  "hostHeaders": "/demo/egg-share/progressive/step1/node_modules/egg/config/config.default.js",
+  "pkg": {
+    "name": "/demo/egg-share/progressive/step1/node_modules/egg/config/config.default.js",
+    "version": "/demo/egg-share/progressive/step1/node_modules/egg/config/config.default.js",
+    "private": "/demo/egg-share/progressive/step1/node_modules/egg/config/config.default.js",
+    "dependencies": {
+      "egg": "/demo/egg-share/progressive/step1/node_modules/egg/config/config.default.js"
+    },
+    "devDependencies": {
+      "egg-bin": "/demo/egg-share/progressive/step1/node_modules/egg/config/config.default.js",
+      "egg-mock": "/demo/egg-share/progressive/step1/node_modules/egg/config/config.default.js"
+    },
+    "scripts": {
+      "dev": "/demo/egg-share/progressive/step1/node_modules/egg/config/config.default.js",
+      "test": "/demo/egg-share/progressive/step1/node_modules/egg/config/config.default.js",
+      "cov": "/demo/egg-share/progressive/step1/node_modules/egg/config/config.default.js"
+    }
+  },
+  "baseDir": "/demo/egg-share/progressive/step1/node_modules/egg/config/config.default.js",
+  "HOME": "/demo/egg-share/progressive/step1/node_modules/egg/config/config.default.js",
+  "rundir": "/demo/egg-share/progressive/step1/node_modules/egg/config/config.default.js",
+  "dump": {
+    "ignore": "/demo/egg-share/progressive/step1/node_modules/egg/config/config.default.js"
+  },
+  "confusedConfigurations": {
+    "bodyparser": "/demo/egg-share/progressive/step1/node_modules/egg/config/config.default.js",
+    "notFound": "/demo/egg-share/progressive/step1/node_modules/egg/config/config.default.js",
+    "sitefile": "/demo/egg-share/progressive/step1/node_modules/egg/config/config.default.js",
+    "middlewares": "/demo/egg-share/progressive/step1/node_modules/egg/config/config.default.js",
+    "httpClient": "/demo/egg-share/progressive/step1/node_modules/egg/config/config.default.js"
+  },
+  "notfound": {
+    "pageUrl": "/demo/egg-share/progressive/step1/node_modules/egg/config/config.default.js"
+  },
+  "siteFile": {
+    "/favicon.ico": "/demo/egg-share/progressive/step1/node_modules/egg/config/config.default.js"
+  },
+  "bodyParser": {
+    "enable": "/demo/egg-share/progressive/step1/node_modules/egg/config/config.default.js",
+    "encoding": "/demo/egg-share/progressive/step1/node_modules/egg/config/config.default.js",
+    "formLimit": "/demo/egg-share/progressive/step1/node_modules/egg/config/config.default.js",
+    "jsonLimit": "/demo/egg-share/progressive/step1/node_modules/egg/config/config.default.js",
+    "textLimit": "/demo/egg-share/progressive/step1/node_modules/egg/config/config.default.js",
+    "strict": "/demo/egg-share/progressive/step1/node_modules/egg/config/config.default.js",
+    "queryString": {
+      "arrayLimit": "/demo/egg-share/progressive/step1/node_modules/egg/config/config.default.js",
+      "depth": "/demo/egg-share/progressive/step1/node_modules/egg/config/config.default.js",
+      "parameterLimit": "/demo/egg-share/progressive/step1/node_modules/egg/config/config.default.js"
+    },
+    "onerror": "/demo/egg-share/progressive/step1/node_modules/egg/config/config.default.js"
+  },
+  "logger": {
+    "dir": "/demo/egg-share/progressive/step1/node_modules/egg/config/config.default.js",
+    "encoding": "/demo/egg-share/progressive/step1/node_modules/egg/config/config.default.js",
+    "env": "/demo/egg-share/progressive/step1/node_modules/egg/config/config.default.js",
+    "level": "/demo/egg-share/progressive/step1/node_modules/egg/config/config.default.js",
+    "consoleLevel": "/demo/egg-share/progressive/step1/node_modules/egg/config/config.default.js",
+    "disableConsoleAfterReady": "/demo/egg-share/progressive/step1/node_modules/egg/config/config.default.js",
+    "outputJSON": "/demo/egg-share/progressive/step1/node_modules/egg/config/config.default.js",
+    "buffer": "/demo/egg-share/progressive/step1/node_modules/egg/config/config.default.js",
+    "appLogName": "/demo/egg-share/progressive/step1/node_modules/egg/config/config.default.js",
+    "coreLogName": "/demo/egg-share/progressive/step1/node_modules/egg/config/config.default.js",
+    "agentLogName": "/demo/egg-share/progressive/step1/node_modules/egg/config/config.default.js",
+    "errorLogName": "/demo/egg-share/progressive/step1/node_modules/egg/config/config.default.js",
+    "coreLogger": {
+      "consoleLevel": "/demo/egg-share/progressive/step1/node_modules/egg/config/config.local.js"
+    },
+    "allowDebugAtProd": "/demo/egg-share/progressive/step1/node_modules/egg/config/config.default.js"
+  },
+  "httpclient": {
+    "enableDNSCache": "/demo/egg-share/progressive/step1/node_modules/egg/config/config.default.js",
+    "dnsCacheLookupInterval": "/demo/egg-share/progressive/step1/node_modules/egg/config/config.default.js",
+    "dnsCacheMaxLength": "/demo/egg-share/progressive/step1/node_modules/egg/config/config.default.js",
+    "request": {
+      "timeout": "/demo/egg-share/progressive/step1/node_modules/egg/config/config.default.js"
+    },
+    "httpAgent": {
+      "keepAlive": "/demo/egg-share/progressive/step1/node_modules/egg/config/config.default.js",
+      "freeSocketTimeout": "/demo/egg-share/progressive/step1/node_modules/egg/config/config.default.js",
+      "maxSockets": "/demo/egg-share/progressive/step1/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/demo/egg-share/progressive/step1/node_modules/egg/config/config.default.js"
+    },
+    "httpsAgent": {
+      "keepAlive": "/demo/egg-share/progressive/step1/node_modules/egg/config/config.default.js",
+      "freeSocketTimeout": "/demo/egg-share/progressive/step1/node_modules/egg/config/config.default.js",
+      "maxSockets": "/demo/egg-share/progressive/step1/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/demo/egg-share/progressive/step1/node_modules/egg/config/config.default.js"
+    }
+  },
+  "meta": {
+    "enable": "/demo/egg-share/progressive/step1/node_modules/egg/config/config.default.js",
+    "logging": "/demo/egg-share/progressive/step1/node_modules/egg/config/config.default.js"
+  },
+  "coreMiddleware": "/demo/egg-share/progressive/step1/node_modules/egg/config/config.default.js",
+  "workerStartTimeout": "/demo/egg-share/progressive/step1/node_modules/egg/config/config.default.js",
+  "serverTimeout": "/demo/egg-share/progressive/step1/node_modules/egg/config/config.default.js",
+  "cluster": {
+    "listen": {
+      "path": "/demo/egg-share/progressive/step1/node_modules/egg/config/config.default.js",
+      "port": "/demo/egg-share/progressive/step1/node_modules/egg/config/config.default.js",
+      "hostname": "/demo/egg-share/progressive/step1/node_modules/egg/config/config.default.js"
+    }
+  },
+  "clusterClient": {
+    "maxWaitTime": "/demo/egg-share/progressive/step1/node_modules/egg/config/config.default.js",
+    "responseTimeout": "/demo/egg-share/progressive/step1/node_modules/egg/config/config.default.js"
+  },
+  "onClientError": "/demo/egg-share/progressive/step1/node_modules/egg/config/config.default.js"
+}

@@ -1,0 +1,17 @@
+2021-08-12 17:13:08,240 INFO 6982 [egg:logger] init all loggers with options: {"dir":"/demo/egg-share/progressive/step3/example-app/logs/progressive","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"progressive-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2021-08-12 17:13:08,286 INFO 6982 [egg:core] dump config after load, 3ms
+2021-08-12 17:13:08,312 INFO 6982 [egg-watcher:agent] watcher start success
+2021-08-12 17:13:08,317 INFO 6982 [egg:core] dump config after ready, 3ms
+2021-08-12 17:13:09,090 INFO 6982 Recieved a change event from eventSource: {"event":"rename","path":"/demo/egg-share/progressive/step3/example-app/app/public","stat":{"dev":16777220,"mode":16877,"nlink":2,"uid":502,"gid":0,"rdev":0,"blksize":4096,"ino":86221157,"size":64,"blocks":0,"atimeMs":1628759589078.744,"mtimeMs":1628759589078.744,"ctimeMs":1628759589078.744,"birthtimeMs":1628759589078.744,"atime":"2021-08-12T09:13:09.079Z","mtime":"2021-08-12T09:13:09.079Z","ctime":"2021-08-12T09:13:09.079Z","birthtime":"2021-08-12T09:13:09.079Z"},"remove":false,"isDirectory":true,"isFile":false}
+2021-08-12 17:17:08,681 INFO 7050 [egg:logger] init all loggers with options: {"dir":"/demo/egg-share/progressive/step3/example-app/logs/progressive","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"progressive-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2021-08-12 17:17:08,729 INFO 7050 [egg:core] dump config after load, 3ms
+2021-08-12 17:17:08,757 INFO 7050 [egg-watcher:agent] watcher start success
+2021-08-12 17:17:08,779 INFO 7050 [egg:core] dump config after ready, 3ms
+2021-08-12 18:36:18,030 INFO 12596 [egg:logger] init all loggers with options: {"dir":"/demo/egg-share/progressive/step3/example-app/logs/progressive","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"progressive-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2021-08-12 18:36:18,109 INFO 12596 [egg:core] dump config after load, 4ms
+2021-08-12 18:36:18,158 INFO 12596 [egg-watcher:agent] watcher start success
+2021-08-12 18:36:18,181 INFO 12596 [egg:core] dump config after ready, 3ms
+2021-08-12 19:00:53,173 INFO 13726 [egg:logger] init all loggers with options: {"dir":"/demo/egg-share/progressive/step3/example-app/logs/progressive","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"progressive-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2021-08-12 19:00:53,247 INFO 13726 [egg:core] dump config after load, 4ms
+2021-08-12 19:00:53,291 INFO 13726 [egg-watcher:agent] watcher start success
+2021-08-12 19:00:53,308 INFO 13726 [egg:core] dump config after ready, 5ms

@@ -1,0 +1,105 @@
+2021-08-06 10:34:36,400 ERROR 49392 [-/127.0.0.1/-/4ms GET /] nodejs.ReferenceError: app is not defined
+    at Home.isIOS (/demo/egg-share/progressive/step1/app/controller/home.js:7:49)
+    at Object.callFn (/demo/egg-share/progressive/step1/node_modules/egg-core/lib/utils/index.js:44:21)
+    at Object.classControllerMiddleware (/demo/egg-share/progressive/step1/node_modules/egg-core/lib/loader/mixin/controller.js:87:20)
+    at Object.callFn (/demo/egg-share/progressive/step1/node_modules/@eggjs/router/lib/utils.js:12:21)
+    at wrappedController (/demo/egg-share/progressive/step1/node_modules/@eggjs/router/lib/egg_router.js:322:18)
+    at dispatch (/demo/egg-share/progressive/step1/node_modules/koa-compose/index.js:44:32)
+    at next (/demo/egg-share/progressive/step1/node_modules/koa-compose/index.js:45:18)
+    at /demo/egg-share/progressive/step1/node_modules/@eggjs/router/lib/router.js:186:18
+    at dispatch (/demo/egg-share/progressive/step1/node_modules/koa-compose/index.js:44:32)
+    at /demo/egg-share/progressive/step1/node_modules/koa-compose/index.js:36:12
+
+pid: 49392
+hostname: CN-MAC-169-1903
+
+2021-08-06 11:07:23,003 ERROR 51778 [-/127.0.0.1/-/3ms GET /] nodejs.TypeError: this.config.keys.split is not a function
+    at Application.get keys [as keys] (/demo/egg-share/progressive/step1/node_modules/egg/lib/application.js:269:37)
+    at Object.get cookies [as cookies] (/demo/egg-share/progressive/step1/node_modules/egg/app/extend/context.js:22:66)
+    at Object.get [egg-security#CSRF_SECRET] (/demo/egg-share/progressive/step1/node_modules/egg-security/app/extend/context.js:91:35)
+    at Object.ensureCsrfSecret (/demo/egg-share/progressive/step1/node_modules/egg-security/app/extend/context.js:104:13)
+    at csrf (/demo/egg-share/progressive/step1/node_modules/egg-security/lib/middlewares/csrf.js:15:11)
+    at dispatch (/demo/egg-share/progressive/step1/node_modules/egg-security/node_modules/koa-compose/index.js:42:32)
+    at /demo/egg-share/progressive/step1/node_modules/egg-security/node_modules/koa-compose/index.js:34:12
+    at dispatch (/demo/egg-share/progressive/step1/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at session (/demo/egg-share/progressive/step1/node_modules/koa-session/index.js:41:13)
+    at dispatch (/demo/egg-share/progressive/step1/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+
+pid: 51778
+hostname: CN-MAC-169-1903
+
+2021-08-06 11:09:26,510 ERROR 51891 [-/127.0.0.1/-/3ms GET /] nodejs.TypeError: this.config.keys.split is not a function
+    at Application.get keys [as keys] (/demo/egg-share/progressive/step1/node_modules/egg/lib/application.js:269:37)
+    at Object.get cookies [as cookies] (/demo/egg-share/progressive/step1/node_modules/egg/app/extend/context.js:22:66)
+    at Object.get [egg-security#CSRF_SECRET] (/demo/egg-share/progressive/step1/node_modules/egg-security/app/extend/context.js:91:35)
+    at Object.ensureCsrfSecret (/demo/egg-share/progressive/step1/node_modules/egg-security/app/extend/context.js:104:13)
+    at csrf (/demo/egg-share/progressive/step1/node_modules/egg-security/lib/middlewares/csrf.js:15:11)
+    at dispatch (/demo/egg-share/progressive/step1/node_modules/egg-security/node_modules/koa-compose/index.js:42:32)
+    at /demo/egg-share/progressive/step1/node_modules/egg-security/node_modules/koa-compose/index.js:34:12
+    at dispatch (/demo/egg-share/progressive/step1/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at session (/demo/egg-share/progressive/step1/node_modules/koa-session/index.js:41:13)
+    at dispatch (/demo/egg-share/progressive/step1/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+
+pid: 51891
+hostname: CN-MAC-169-1903
+
+2021-08-06 11:09:31,418 ERROR 51891 [-/127.0.0.1/-/0ms GET /] nodejs.TypeError: this.config.keys.split is not a function
+    at Application.get keys [as keys] (/demo/egg-share/progressive/step1/node_modules/egg/lib/application.js:269:37)
+    at Object.get cookies [as cookies] (/demo/egg-share/progressive/step1/node_modules/egg/app/extend/context.js:22:66)
+    at Object.get [egg-security#CSRF_SECRET] (/demo/egg-share/progressive/step1/node_modules/egg-security/app/extend/context.js:91:35)
+    at Object.ensureCsrfSecret (/demo/egg-share/progressive/step1/node_modules/egg-security/app/extend/context.js:104:13)
+    at csrf (/demo/egg-share/progressive/step1/node_modules/egg-security/lib/middlewares/csrf.js:15:11)
+    at dispatch (/demo/egg-share/progressive/step1/node_modules/egg-security/node_modules/koa-compose/index.js:42:32)
+    at /demo/egg-share/progressive/step1/node_modules/egg-security/node_modules/koa-compose/index.js:34:12
+    at dispatch (/demo/egg-share/progressive/step1/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at session (/demo/egg-share/progressive/step1/node_modules/koa-session/index.js:41:13)
+    at dispatch (/demo/egg-share/progressive/step1/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+
+pid: 51891
+hostname: CN-MAC-169-1903
+
+2021-08-06 11:09:32,178 ERROR 51908 [-/127.0.0.1/-/3ms GET /] nodejs.TypeError: this.config.keys.split is not a function
+    at Application.get keys [as keys] (/demo/egg-share/progressive/step1/node_modules/egg/lib/application.js:269:37)
+    at Object.get cookies [as cookies] (/demo/egg-share/progressive/step1/node_modules/egg/app/extend/context.js:22:66)
+    at Object.get [egg-security#CSRF_SECRET] (/demo/egg-share/progressive/step1/node_modules/egg-security/app/extend/context.js:91:35)
+    at Object.ensureCsrfSecret (/demo/egg-share/progressive/step1/node_modules/egg-security/app/extend/context.js:104:13)
+    at csrf (/demo/egg-share/progressive/step1/node_modules/egg-security/lib/middlewares/csrf.js:15:11)
+    at dispatch (/demo/egg-share/progressive/step1/node_modules/egg-security/node_modules/koa-compose/index.js:42:32)
+    at /demo/egg-share/progressive/step1/node_modules/egg-security/node_modules/koa-compose/index.js:34:12
+    at dispatch (/demo/egg-share/progressive/step1/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at session (/demo/egg-share/progressive/step1/node_modules/koa-session/index.js:41:13)
+    at dispatch (/demo/egg-share/progressive/step1/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+
+pid: 51908
+hostname: CN-MAC-169-1903
+
+2021-08-06 11:09:48,505 ERROR 51924 [-/127.0.0.1/-/3ms GET /] nodejs.TypeError: this.config.keys.split is not a function
+    at Application.get keys [as keys] (/demo/egg-share/progressive/step1/node_modules/egg/lib/application.js:269:37)
+    at Object.get cookies [as cookies] (/demo/egg-share/progressive/step1/node_modules/egg/app/extend/context.js:22:66)
+    at Object.get [egg-security#CSRF_SECRET] (/demo/egg-share/progressive/step1/node_modules/egg-security/app/extend/context.js:91:35)
+    at Object.ensureCsrfSecret (/demo/egg-share/progressive/step1/node_modules/egg-security/app/extend/context.js:104:13)
+    at csrf (/demo/egg-share/progressive/step1/node_modules/egg-security/lib/middlewares/csrf.js:15:11)
+    at dispatch (/demo/egg-share/progressive/step1/node_modules/egg-security/node_modules/koa-compose/index.js:42:32)
+    at /demo/egg-share/progressive/step1/node_modules/egg-security/node_modules/koa-compose/index.js:34:12
+    at dispatch (/demo/egg-share/progressive/step1/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at session (/demo/egg-share/progressive/step1/node_modules/koa-session/index.js:41:13)
+    at dispatch (/demo/egg-share/progressive/step1/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+
+pid: 51924
+hostname: CN-MAC-169-1903
+
+2021-08-06 11:10:18,073 ERROR 51947 [-/127.0.0.1/-/4ms GET /] nodejs.TypeError: this.config.keys.split is not a function
+    at Application.get keys [as keys] (/demo/egg-share/progressive/step1/node_modules/egg/lib/application.js:269:37)
+    at Object.get cookies [as cookies] (/demo/egg-share/progressive/step1/node_modules/egg/app/extend/context.js:22:66)
+    at Object.get [egg-security#CSRF_SECRET] (/demo/egg-share/progressive/step1/node_modules/egg-security/app/extend/context.js:91:35)
+    at Object.ensureCsrfSecret (/demo/egg-share/progressive/step1/node_modules/egg-security/app/extend/context.js:104:13)
+    at csrf (/demo/egg-share/progressive/step1/node_modules/egg-security/lib/middlewares/csrf.js:15:11)
+    at dispatch (/demo/egg-share/progressive/step1/node_modules/egg-security/node_modules/koa-compose/index.js:42:32)
+    at /demo/egg-share/progressive/step1/node_modules/egg-security/node_modules/koa-compose/index.js:34:12
+    at dispatch (/demo/egg-share/progressive/step1/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at session (/demo/egg-share/progressive/step1/node_modules/koa-session/index.js:41:13)
+    at dispatch (/demo/egg-share/progressive/step1/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+
+pid: 51947
+hostname: CN-MAC-169-1903
+

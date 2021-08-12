@@ -1,0 +1,105 @@
+2021-08-06 10:26:34,295 INFO 48918 [Timer] /demo/egg-share/progressive/step1/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 65005707ms at 2021-08-07 04:30:00.002
+2021-08-06 10:26:34,295 INFO 48918 [Timer] /demo/egg-share/progressive/step1/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 48805705ms at 2021-08-07 00:00:00.000
+2021-08-06 10:26:34,295 INFO 48918 [Timer] /demo/egg-share/progressive/step1/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 48806705ms at 2021-08-07 00:00:01.000
+2021-08-06 10:26:34,153 INFO 48923 [egg-schedule]: register schedule /demo/egg-share/progressive/step1/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-08-06 10:26:34,153 INFO 48923 [egg-schedule]: register schedule /demo/egg-share/progressive/step1/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-08-06 10:26:34,153 INFO 48923 [egg-schedule]: register schedule /demo/egg-share/progressive/step1/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-08-06 10:34:31,513 INFO 49390 [egg-schedule]: register schedule /demo/egg-share/progressive/step1/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-08-06 10:34:31,514 INFO 49390 [egg-schedule]: register schedule /demo/egg-share/progressive/step1/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-08-06 10:34:31,514 INFO 49390 [egg-schedule]: register schedule /demo/egg-share/progressive/step1/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-08-06 10:34:32,079 INFO 49392 [egg-schedule]: register schedule /demo/egg-share/progressive/step1/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-08-06 10:34:32,079 INFO 49392 [egg-schedule]: register schedule /demo/egg-share/progressive/step1/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-08-06 10:34:32,079 INFO 49392 [egg-schedule]: register schedule /demo/egg-share/progressive/step1/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-08-06 10:34:43,414 INFO 49405 [egg-schedule]: register schedule /demo/egg-share/progressive/step1/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-08-06 10:34:43,414 INFO 49405 [egg-schedule]: register schedule /demo/egg-share/progressive/step1/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-08-06 10:34:43,414 INFO 49405 [egg-schedule]: register schedule /demo/egg-share/progressive/step1/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-08-06 10:34:49,565 INFO 49412 [egg-schedule]: register schedule /demo/egg-share/progressive/step1/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-08-06 10:34:49,565 INFO 49412 [egg-schedule]: register schedule /demo/egg-share/progressive/step1/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-08-06 10:34:49,565 INFO 49412 [egg-schedule]: register schedule /demo/egg-share/progressive/step1/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-08-06 10:35:10,953 INFO 49431 [egg-schedule]: register schedule /demo/egg-share/progressive/step1/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-08-06 10:35:10,953 INFO 49431 [egg-schedule]: register schedule /demo/egg-share/progressive/step1/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-08-06 10:35:10,953 INFO 49431 [egg-schedule]: register schedule /demo/egg-share/progressive/step1/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-08-06 10:35:14,889 INFO 49440 [egg-schedule]: register schedule /demo/egg-share/progressive/step1/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-08-06 10:35:14,889 INFO 49440 [egg-schedule]: register schedule /demo/egg-share/progressive/step1/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-08-06 10:35:14,889 INFO 49440 [egg-schedule]: register schedule /demo/egg-share/progressive/step1/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-08-06 11:07:17,452 INFO 51772 [egg-schedule]: register schedule /demo/egg-share/progressive/step1/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-08-06 11:07:17,452 INFO 51772 [egg-schedule]: register schedule /demo/egg-share/progressive/step1/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-08-06 11:07:17,452 INFO 51772 [egg-schedule]: register schedule /demo/egg-share/progressive/step1/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-08-06 11:07:18,968 INFO 51778 [egg-schedule]: register schedule /demo/egg-share/progressive/step1/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-08-06 11:07:18,968 INFO 51778 [egg-schedule]: register schedule /demo/egg-share/progressive/step1/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-08-06 11:07:18,969 INFO 51778 [egg-schedule]: register schedule /demo/egg-share/progressive/step1/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-08-06 11:08:53,055 INFO 51854 [egg-schedule]: register schedule /demo/egg-share/progressive/step1/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-08-06 11:08:53,055 INFO 51854 [egg-schedule]: register schedule /demo/egg-share/progressive/step1/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-08-06 11:08:53,055 INFO 51854 [egg-schedule]: register schedule /demo/egg-share/progressive/step1/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-08-06 11:09:20,281 INFO 51891 [egg-schedule]: register schedule /demo/egg-share/progressive/step1/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-08-06 11:09:20,281 INFO 51891 [egg-schedule]: register schedule /demo/egg-share/progressive/step1/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-08-06 11:09:20,281 INFO 51891 [egg-schedule]: register schedule /demo/egg-share/progressive/step1/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-08-06 11:09:31,422 INFO 51908 [egg-schedule]: register schedule /demo/egg-share/progressive/step1/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-08-06 11:09:31,422 INFO 51908 [egg-schedule]: register schedule /demo/egg-share/progressive/step1/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-08-06 11:09:31,422 INFO 51908 [egg-schedule]: register schedule /demo/egg-share/progressive/step1/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-08-06 11:09:45,647 INFO 51924 [egg-schedule]: register schedule /demo/egg-share/progressive/step1/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-08-06 11:09:45,647 INFO 51924 [egg-schedule]: register schedule /demo/egg-share/progressive/step1/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-08-06 11:09:45,647 INFO 51924 [egg-schedule]: register schedule /demo/egg-share/progressive/step1/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-08-06 11:10:15,671 INFO 51946 [egg-schedule]: register schedule /demo/egg-share/progressive/step1/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-08-06 11:10:15,671 INFO 51946 [egg-schedule]: register schedule /demo/egg-share/progressive/step1/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-08-06 11:10:15,671 INFO 51946 [egg-schedule]: register schedule /demo/egg-share/progressive/step1/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-08-06 11:10:16,171 INFO 51947 [egg-schedule]: register schedule /demo/egg-share/progressive/step1/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-08-06 11:10:16,171 INFO 51947 [egg-schedule]: register schedule /demo/egg-share/progressive/step1/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-08-06 11:10:16,171 INFO 51947 [egg-schedule]: register schedule /demo/egg-share/progressive/step1/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-08-06 11:10:31,734 INFO 51970 [egg-schedule]: register schedule /demo/egg-share/progressive/step1/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-08-06 11:10:31,734 INFO 51970 [egg-schedule]: register schedule /demo/egg-share/progressive/step1/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-08-06 11:10:31,734 INFO 51970 [egg-schedule]: register schedule /demo/egg-share/progressive/step1/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-08-06 16:27:57,502 INFO 66842 [Timer] /demo/egg-share/progressive/step1/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 43322500ms at 2021-08-07 04:30:00.002
+2021-08-06 16:27:57,503 INFO 66842 [Timer] /demo/egg-share/progressive/step1/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 27122498ms at 2021-08-07 00:00:00.000
+2021-08-06 16:27:57,503 INFO 66842 [Timer] /demo/egg-share/progressive/step1/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 27123497ms at 2021-08-07 00:00:01.000
+2021-08-06 16:27:57,333 INFO 66843 [egg-schedule]: register schedule /demo/egg-share/progressive/step1/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-08-06 16:27:57,333 INFO 66843 [egg-schedule]: register schedule /demo/egg-share/progressive/step1/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-08-06 16:27:57,333 INFO 66843 [egg-schedule]: register schedule /demo/egg-share/progressive/step1/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-08-06 16:28:21,187 INFO 66879 [egg-schedule]: register schedule /demo/egg-share/progressive/step1/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-08-06 16:28:21,187 INFO 66879 [egg-schedule]: register schedule /demo/egg-share/progressive/step1/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-08-06 16:28:21,187 INFO 66879 [egg-schedule]: register schedule /demo/egg-share/progressive/step1/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-08-06 16:28:21,750 INFO 66881 [egg-schedule]: register schedule /demo/egg-share/progressive/step1/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-08-06 16:28:21,750 INFO 66881 [egg-schedule]: register schedule /demo/egg-share/progressive/step1/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-08-06 16:28:21,750 INFO 66881 [egg-schedule]: register schedule /demo/egg-share/progressive/step1/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-08-06 16:49:51,977 INFO 68437 [Timer] /demo/egg-share/progressive/step1/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 42008025ms at 2021-08-07 04:30:00.002
+2021-08-06 16:49:51,977 INFO 68437 [Timer] /demo/egg-share/progressive/step1/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 25808023ms at 2021-08-07 00:00:00.000
+2021-08-06 16:49:51,977 INFO 68437 [Timer] /demo/egg-share/progressive/step1/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 25809023ms at 2021-08-07 00:00:01.000
+2021-08-06 16:49:51,809 INFO 68442 [egg-schedule]: register schedule /demo/egg-share/progressive/step1/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-08-06 16:49:51,809 INFO 68442 [egg-schedule]: register schedule /demo/egg-share/progressive/step1/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-08-06 16:49:51,809 INFO 68442 [egg-schedule]: register schedule /demo/egg-share/progressive/step1/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-08-06 16:50:02,942 INFO 68452 [egg-schedule]: register schedule /demo/egg-share/progressive/step1/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-08-06 16:50:02,942 INFO 68452 [egg-schedule]: register schedule /demo/egg-share/progressive/step1/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-08-06 16:50:02,942 INFO 68452 [egg-schedule]: register schedule /demo/egg-share/progressive/step1/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-08-06 16:51:54,040 INFO 68544 [egg-schedule]: register schedule /demo/egg-share/progressive/step1/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-08-06 16:51:54,040 INFO 68544 [egg-schedule]: register schedule /demo/egg-share/progressive/step1/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-08-06 16:51:54,040 INFO 68544 [egg-schedule]: register schedule /demo/egg-share/progressive/step1/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-08-06 16:52:11,620 INFO 68561 [egg-schedule]: register schedule /demo/egg-share/progressive/step1/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-08-06 16:52:11,620 INFO 68561 [egg-schedule]: register schedule /demo/egg-share/progressive/step1/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-08-06 16:52:11,620 INFO 68561 [egg-schedule]: register schedule /demo/egg-share/progressive/step1/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-08-06 16:52:19,481 INFO 68571 [egg-schedule]: register schedule /demo/egg-share/progressive/step1/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-08-06 16:52:19,481 INFO 68571 [egg-schedule]: register schedule /demo/egg-share/progressive/step1/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-08-06 16:52:19,481 INFO 68571 [egg-schedule]: register schedule /demo/egg-share/progressive/step1/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-08-06 16:52:20,169 INFO 68573 [egg-schedule]: register schedule /demo/egg-share/progressive/step1/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-08-06 16:52:20,169 INFO 68573 [egg-schedule]: register schedule /demo/egg-share/progressive/step1/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-08-06 16:52:20,169 INFO 68573 [egg-schedule]: register schedule /demo/egg-share/progressive/step1/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-08-06 16:53:09,235 INFO 68605 [egg-schedule]: register schedule /demo/egg-share/progressive/step1/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-08-06 16:53:09,235 INFO 68605 [egg-schedule]: register schedule /demo/egg-share/progressive/step1/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-08-06 16:53:09,235 INFO 68605 [egg-schedule]: register schedule /demo/egg-share/progressive/step1/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-08-09 14:36:32,408 INFO 3430 [Timer] /demo/egg-share/progressive/step1/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 50007594ms at 2021-08-10 04:30:00.002
+2021-08-09 14:36:32,408 INFO 3430 [Timer] /demo/egg-share/progressive/step1/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 33807592ms at 2021-08-10 00:00:00.000
+2021-08-09 14:36:32,409 INFO 3430 [Timer] /demo/egg-share/progressive/step1/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 33808592ms at 2021-08-10 00:00:01.001
+2021-08-09 14:36:32,213 INFO 3432 [egg-schedule]: register schedule /demo/egg-share/progressive/step1/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-08-09 14:36:32,213 INFO 3432 [egg-schedule]: register schedule /demo/egg-share/progressive/step1/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-08-09 14:36:32,213 INFO 3432 [egg-schedule]: register schedule /demo/egg-share/progressive/step1/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-08-09 14:48:13,576 INFO 4104 [Timer] /demo/egg-share/progressive/step1/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 49306426ms at 2021-08-10 04:30:00.002
+2021-08-09 14:48:13,576 INFO 4104 [Timer] /demo/egg-share/progressive/step1/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 33106424ms at 2021-08-10 00:00:00.000
+2021-08-09 14:48:13,577 INFO 4104 [Timer] /demo/egg-share/progressive/step1/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 33107424ms at 2021-08-10 00:00:01.001
+2021-08-09 14:48:13,421 INFO 4109 [egg-schedule]: register schedule /demo/egg-share/progressive/step1/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-08-09 14:48:13,421 INFO 4109 [egg-schedule]: register schedule /demo/egg-share/progressive/step1/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-08-09 14:48:13,421 INFO 4109 [egg-schedule]: register schedule /demo/egg-share/progressive/step1/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-08-09 14:49:43,569 INFO 4257 [Timer] /demo/egg-share/progressive/step1/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 49216433ms at 2021-08-10 04:30:00.002
+2021-08-09 14:49:43,570 INFO 4257 [Timer] /demo/egg-share/progressive/step1/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 33016431ms at 2021-08-10 00:00:00.001
+2021-08-09 14:49:43,570 INFO 4257 [Timer] /demo/egg-share/progressive/step1/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 33017430ms at 2021-08-10 00:00:01.000
+2021-08-09 14:49:43,483 INFO 4259 [egg-schedule]: register schedule /demo/egg-share/progressive/step1/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-08-09 14:49:43,483 INFO 4259 [egg-schedule]: register schedule /demo/egg-share/progressive/step1/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-08-09 14:49:43,483 INFO 4259 [egg-schedule]: register schedule /demo/egg-share/progressive/step1/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
